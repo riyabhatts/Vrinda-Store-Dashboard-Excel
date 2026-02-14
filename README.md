@@ -85,7 +85,7 @@ Channel contribution breakdown:
 - Improve cancellation and return rate further.
 
 6. Dashboard Screen Shot
-   ![Dashboard Preview]()
+   ![Dashboard Preview](https://github.com/riyabhatts/Vrinda-Store-Dashboard-Excel/blob/main/Vrinda%20store%20dashboard%20screen%20shot%202.png)
 👩‍💻 About Me
 
 I am an aspiring Data Analyst skilled in:
